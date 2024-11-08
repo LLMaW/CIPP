@@ -107,9 +107,8 @@
   },
   "mimeTypes": {
     ".json": "text/json"
-  }
-}
-{
+  },
+  
   "networking": {
     "allowedIpRanges": [
       "92.79.68.34/28",
@@ -119,4 +118,4 @@
       "AzureKeyVault"
     ]
   }
-}
+}    
