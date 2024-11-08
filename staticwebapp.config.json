@@ -115,7 +115,7 @@
       "80.152.132.87/32",
       "AppService",
       "AzureKeyVault",
-      "AzureActiveDirectory",
+      "AzureActiveDirectory"
 	      ]
   }
 }    
